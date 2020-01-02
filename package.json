@@ -1,0 +1,18 @@
+{
+  "name": "brg-dynamic-search",
+  "version": "1.0.0",
+  "description": "Adds a search bar that will display dynamic content based on entered search input",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/benrgreene/Dynamic-Search"
+  },
+  "keywords": [
+    "dynamic search"
+  ],
+  "author": "Ben Greene",
+  "license": "ISC"
+}
